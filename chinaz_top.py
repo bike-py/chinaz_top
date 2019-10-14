@@ -66,7 +66,7 @@ def fenye(res_url):
     while True:
         url = res_url + 'index_%d.html' % i
         i = i+1
-        if i == 1921:
+        if i == 1922:
             print('域名采集结束')
             break
         else:
